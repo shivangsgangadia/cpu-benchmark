@@ -1,0 +1,10 @@
+TESTING ON A DUAL CORE (HYPERTHREADED TO 4 CORES) CPU
+[Intel Core i3-5005U CPU @ 2.00GHz × 4 ]
+
+For sum of series upto : 10000000
+Raw approach :    6.60775
+Multithreading approach :   10.19737
+Multiprocessing approach :    3.52478
+
+TESTING ON AN OCTA-CORE MOBILE PHONE CPU
+[MediaTek MT6750 8 X ARM Cortex-A53 @ 1.81Ghz]
